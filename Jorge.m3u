@@ -1,0 +1,22 @@
+#EXTM3U
+# Playlist Jorge - Filmes
+# Apenas entradas com URL real podem ser reproduzidas.
+# Megapix: URL anterior mantida, mas nao funcionou no teste.
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="Jorge - Filmes",Megapix
+http://177.52.24.163/MEGAPIX-HD/index.m3u8
+# CANAIS PENDENTES - nao possuem URLs de transmissao verificadas
+# Telecine Premium
+# Telecine Action
+# Telecine Pipoca
+# Telecine Touch
+# Telecine Fun
+# Telecine Cult
+# Cinemax
+# HBO
+# HBO 2
+# HBO Family
+# HBO Plus
+# HBO Mundi
+# HBO Pop
+# HBO Xtreme
+# Runtime Acao
